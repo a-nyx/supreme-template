@@ -1,5 +1,12 @@
+'use client';
+import Intro from '@components/Intro/Intro';
+
 const Home = () => {
-  return <main>Yo!</main>;
+  return (
+    <main>
+      <Intro />
+    </main>
+  );
 };
 
 export default Home;

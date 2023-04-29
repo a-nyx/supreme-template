@@ -1,0 +1,2 @@
+# secrets, only available on the server side
+server_config_example: yo!
